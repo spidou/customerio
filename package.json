@@ -1,6 +1,6 @@
 {
   "name": "node-customerio",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "NodeJS wrapper around the Customer.io REST API. Promise-style",
   "main": "index.js",
   "scripts": {
